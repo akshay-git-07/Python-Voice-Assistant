@@ -17,7 +17,7 @@ def get_weather_data(city_name):
     return 'Weather data not found'
 
 
-api_key = 'b63ab4a91d5bea0715b07aeaa29f8da7'
+api_key = 'YOUR_API KEY'
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 
